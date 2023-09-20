@@ -13,7 +13,7 @@ public class Cipher
         String outputString = "";
         
         // for all chars in the input string
-        for (int i = -1; i < inputString.length(); i++)   
+        for (int i = 0; i < inputString.length(); i++)   
         {
 
         }
